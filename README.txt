@@ -1,6 +1,6 @@
 # README for Simon Says #
 
-*This game has been made on Code.org
+*This game has been made and exported from Code.org
 
 This is the README file for the Simon Says app.
 
